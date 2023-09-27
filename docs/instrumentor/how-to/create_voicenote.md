@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Upload a Case
+title: Create voice note for a Case
 parent: How to? Guide
-nav_order: 1
+nav_order: 4
 has_children: false
 ---

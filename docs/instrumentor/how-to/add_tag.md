@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Upload a Case
+title: Add tags to Case
 parent: How to? Guide
-nav_order: 1
+nav_order: 2
 has_children: false
 ---

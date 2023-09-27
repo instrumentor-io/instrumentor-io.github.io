@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Cases Shared With Me
-parent: Instrumentor Platform
+parent: Screens
 has_children: false
 ---

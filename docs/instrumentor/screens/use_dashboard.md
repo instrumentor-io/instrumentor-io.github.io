@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dashboard
-parent: Instrumentor Platform
+parent: Screens
 has_children: false
 ---
 

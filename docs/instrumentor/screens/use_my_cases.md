@@ -1,6 +1,6 @@
 ---
 layout: default
 title: My Cases
-parent: Instrumentor Platform
+parent: Screens
 has_children: false
 ---
