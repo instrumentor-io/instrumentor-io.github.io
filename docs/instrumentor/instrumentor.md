@@ -1,24 +1,23 @@
 ---
 layout: default
 title: Instrumentor Platform
-nav_order: 2
 has_children: true
 ---
 
 # Instrumentor User Guide
 
-Welcome! We are so glad to see you using Instrumentor platform. You can use the links on left hand side to find the topic of your interest, but here are basic system requirements...
+Welcome to the Instrumentor platform! We're excited to have you on board. To help you navigate and make the most of the platform, you can utilize the links provided on the left-hand side to access topics of interest. Here are the essential system requirements to ensure a seamless experience:
 
 **System Requirements**
 
-Brwosers:
+_Supported Browsers:_
 
 - Google Chrome
 - Safari
 - Firefox
 
-Microphone access:
+_Microphone Access:_
 
-- Instrumentor empowers you to record a voice narration on your cases, thus, the web-application requires access to the microphone. When you visit Instrumentor for first time, we will ask for you permission to use microphone - please allow that. If you deny permission to access microphone, you will not be able to record voice narrations.
+- Instrumentor empowers you to record voice narrations for your cases. Therefore, the web application requires access to your microphone. During your initial visit to Instrumentor, we will request permission to access your microphone. Please grant this permission. If you deny microphone access, you won't be able to record voice narrations.
 
-We expect out product to work on Microsoft Edge, but we do not routinely test on Microsoft Edge, so you may find some things that may not work as described.
+While we anticipate our product to function on Microsoft Edge, we don't conduct routine testing on this browser. Consequently, you may encounter some features that may not work as described. Your understanding is appreciated.

@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Dashboard
+title: My Cases
 parent: Instrumentor Platform
-has_children: true
+has_children: false
 ---
-
-# Dashboard
