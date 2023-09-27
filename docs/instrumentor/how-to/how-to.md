@@ -1,8 +1,8 @@
 ---
 layout: default
 title: How to? Guide
-has_children: true
 parent: Instrumentor Platform
+has_children: true
 ---
 
 ## How to Guides:
