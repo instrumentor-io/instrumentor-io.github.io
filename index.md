@@ -1,35 +1,25 @@
 ---
-title: User guides for MediX and Instrumentor
+title: Home
 layout: home
 ---
 
-This is a _bare-minimum_ template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Welcome to help and documentation for Instrumentor and MediX!
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site _locally_. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Instrumentor is a pioneering platform designed to optimize video recording, ensure secure archival, enable precise annotations and illustrations, and facilitate seamless sharing tailored for medical professionals. Notably, Instrumentor's platform adheres to the stringent HIPAA compliance standards, prioritizing data security and confidentiality.
 
-More specifically, the created site:
+The essence of Instrumentor revolves around its two core components: the MediX Virtual Assistant and the Instrumentor platform.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## MediX
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+MediX, a cutting-edge Android application, stands out for its innovative voice activation feature, allowing for hands-free operation, a game-changer for medical practitioners. The application leverages automated speech recognition (ASR) directly on the Android device, eliminating the need for an internet connection for command recognition. This advancement enhances efficiency and accessibility, empowering medical professionals in their day-to-day activities.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Instrumentor Platform
 
-To get started with creating a site, simply:
+Instrumentor platform is a web application that enables to view, edit, tag, annotate, search and share cases with other users of Instrumentor platform. You can access Instrumentor Platform on any internet connected device using a modern browser (we test routinely on Chrome, Firefox and Safari)
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## User Guides/Help
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Let's get you the help you need...
 
----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+- You can use the left hand navigation to navigate to topic of your interest
+- You can search for keywords using the search box at the top.
