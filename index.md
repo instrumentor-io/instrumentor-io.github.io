@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Instrumentor and MediX Documentation
 layout: home
 ---
 
