@@ -1,7 +1,6 @@
 ---
 title: Documentation Home
 layout: home
-
 ---
 
 # Welcome to help and documentation for Instrumentor and MediX!
@@ -18,9 +17,7 @@ MediX, a cutting-edge Android application, stands out for its innovative voice a
 
 Instrumentor platform is a web application that enables to view, edit, tag, annotate, search and share cases with other users of Instrumentor platform. You can access Instrumentor Platform on any internet connected device using a modern browser (we test routinely on Chrome, Firefox and Safari)
 
-## User Guides/Help
-
-Let's get you the help you need...
+**Let's get you the help you need...**
 
 - You can use the left hand navigation to navigate to topic of your interest
 - You can search for keywords using the search box at the top.
