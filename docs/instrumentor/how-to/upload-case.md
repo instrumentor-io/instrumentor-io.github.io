@@ -15,7 +15,6 @@ You can upload any mp5 file from your local storage, it could be a laptop, deskt
 
 Sure, I can improve the formatting and wording of the steps in markdown. Here's a revised version:
 
-```markdown
 1. **Navigate to "My Cases"**
 2. **Click on the "Upload New Case" button**
 3. **Select your case type:**
@@ -39,4 +38,3 @@ Sure, I can improve the formatting and wording of the steps in markdown. Here's 
 _Note: For a video tutorial on how to upload a video from the web portal, please refer to the following demonstration._
 
 [Following video shows how to upload a video from the web portal.](/assets/media/instrumentor/upload-case.mp4)
-```
