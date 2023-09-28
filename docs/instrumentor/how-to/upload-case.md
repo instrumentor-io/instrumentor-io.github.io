@@ -27,7 +27,5 @@ You can upload any mp5 file from your local storage, it could be a laptop, deskt
 ---
 
 <p align="center">A video walkthrough of how to upload a case</p>
-
-https://user-images.githubusercontent.com/85418632/211225192-7e5d1116-2f4f-4305-bb9b-437fe47df071.mp4
-
-https://documentation.instrumentor.io/assets/media/instrumentor/upload-case.mp4
+<iframe width="854" height="480" src="/assets/media/instrumentor/upload-case.mp4" frameborder="0" allowfullscreen></iframe>
+---
