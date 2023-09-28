@@ -28,4 +28,4 @@ You can upload any mp5 file from your local storage, it could be a laptop, deskt
 
 _Note: For a video tutorial on how to upload a case video from the web portal, please refer to the following demonstration._
 
-/assets/media/instrumentor/upload-case.mp4
+https://documentation.instrumentor.io/assets/media/instrumentor/upload-case.mp4
