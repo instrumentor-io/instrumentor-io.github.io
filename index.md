@@ -1,6 +1,7 @@
 ---
-title: Instrumentor and MediX Documentation
+title: Documentation Home
 layout: home
+
 ---
 
 # Welcome to help and documentation for Instrumentor and MediX!
