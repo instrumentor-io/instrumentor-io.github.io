@@ -11,4 +11,4 @@ has_children: false
 
 You can upload any mp5 file from your local storage, it could be a laptop, desktop or an external storage attached to your laptop or desktop. Following video summarizes how to uplaod a video from the web-portal.
 
-<iframe width="420" height="315" src="/assets/media/instrumentor/upload-case.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="/assets/media/instrumentor/upload-case.mp4" frameborder="0" allowfullscreen></iframe>
