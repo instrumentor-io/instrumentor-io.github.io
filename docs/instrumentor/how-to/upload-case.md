@@ -13,8 +13,6 @@ You can upload any mp5 file from your local storage, it could be a laptop, deskt
 
 ### Steps
 
-Sure, I can improve the formatting and wording of the steps in markdown. Here's a revised version:
-
 1. **Navigate to "My Cases"**
 2. **Click on the "Upload New Case" button**
 3. **Select your case type:**
