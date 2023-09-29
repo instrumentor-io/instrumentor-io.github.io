@@ -22,4 +22,4 @@ You can select any case from "My Cases" screen to view details. The "Case Detail
 
 **A video walkthrough of how to view case details and add a comment**
 
-## <iframe width="854" height="480" src="/assets/media/instrumentor/view-case-details.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="/assets/media/instrumentor/view-case-details.mp4" frameborder="0" autplay="false" allowfullscreen></iframe>
