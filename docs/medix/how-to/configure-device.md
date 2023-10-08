@@ -1,8 +1,9 @@
 ---
 layout: default
-title: How to? Guide
-parent: MediX Vitual Assistant
-has_children: true
+title: Configure your Android Device
+prent: How to? Guide
+grand_parent: MediX Vitual Assistant
+has_children: false
 ---
 
 ## Configure your own Android Device for using with MediX
