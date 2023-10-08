@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Configure your Android Device
-prent: How to? Guide
+prent: How to Guide
 grand_parent: MediX Vitual Assistant
 has_children: false
 ---
@@ -15,9 +15,12 @@ You can use any Android device (OS Level > 11) to install and use MediX. There a
 MediX is not (yet) available on any commerical playstores. So you will be downloading the MediX software from Instrumentor site. You need to tell you Android device it is ok to install MediX from non play store locations. These instructions assume a Samsun device, if you are using a different device - please search internet on how to accomplish this.
 
 - Navigate to "Settings"
-- Search for "Install Unknown Apps" in the search bar for settings: ![Settings](/assets/images/medix/unknown-app-suggestions.png)
-- Select "Install Unknown Apps" from "Specical Access" section: ![SpecialAccess] (/assets/images/medix/special-access-unknown-apps.png)
-- Select "My Files" from list of suggestions, telling Android it's ok to install apps that are stored locally on your device. We recommend downloading APK file to your local storage and installing from these. ![LocationSuggestions](/assets/images/medix/unknown-apps-selections.png)
+- Search for "Install Unknown Apps" in the search bar for settings:
+  ![Settings](/assets/images/medix/unknown-app-suggestions.png)
+- Select "Install Unknown Apps" from "Specical Access" section:
+  ![SpecialAccess] (/assets/images/medix/special-access-unknown-apps.png)
+- Select "My Files" from list of suggestions, telling Android it's ok to install apps that are stored locally on your device. We recommend downloading APK file to your local storage and installing from these.
+  ![LocationSuggestions](/assets/images/medix/unknown-apps-selections.png)
 
 ### Allow MediX to listen to on-board microphone
 
