@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Take Snapshots
-prent: How to Guide
-grand_parent: MediX Vitual Assistant
+title: Take a Snapshot
+parent: MediX Vitual Assistant
+nav_order: 4
 has_children: false
 ---

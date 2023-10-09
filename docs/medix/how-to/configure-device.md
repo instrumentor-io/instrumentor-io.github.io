@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Configure your Android Device
-prent: How to Guide
-grand_parent: MediX Vitual Assistant
+parent: MediX Vitual Assistant
 nav_order: 1
 has_children: false
 ---
@@ -18,11 +17,11 @@ MediX is not (yet) available on any commerical playstores. So you will be downlo
 - Navigate to "Settings"
 - Search for "Install Unknown Apps" in the search bar for settings:
 
-  ![Settings](/assets/images/medix/)
+![Settings](/assets/images/medix/unknown-app-suggestions.png)
 
 - Select "Install Unknown Apps" from "Specical Access" section:
 
-  ![SpecialAccess](/assets/images/medix/special-access-unknown-apps.png)
+![SpecialAccess](/assets/images/medix/special-access-unknown-apps.png)
 
 - Select "My Files" from list of suggestions, telling Android it's ok to install apps that are stored locally on your device. We recommend downloading APK file to your local storage and installing from these.
 

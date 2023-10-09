@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Change Settings for MediX
-prent: How to Guide
-grand_parent: MediX Vitual Assistant
+title: Change Settings
+parent: MediX Vitual Assistant
+nav_order: 5
 has_children: false
 ---
