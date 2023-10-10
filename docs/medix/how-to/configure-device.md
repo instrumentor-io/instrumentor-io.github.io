@@ -15,7 +15,7 @@ You can use any Android device (OS Level > 11) to install and use MediX. There a
 MediX is not (yet) available on any commerical playstores. So you will be downloading the MediX software from Instrumentor site. You need to tell you Android device it is ok to install MediX from non play store locations. These instructions assume a Samsun device, if you are using a different device - please search internet on how to accomplish this.
 
 - Navigate to "Settings"
-- Search for "Install Unknown Apps" in the search bar for settings:
+- Search for "Install Unknown Apps" in the search bar for settings: This will result in 2 search entries, we are interested in "Special Access" section
 
 ![Settings](/assets/images/medix/unknown-app-suggestions.png)
 
