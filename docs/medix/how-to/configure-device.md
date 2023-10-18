@@ -10,7 +10,7 @@ has_children: false
 
 You can use any Android device (OS Level > 11) to install and use MediX. There are 2 pre-requisite steps involved in configuring your device.
 
-### Allow APK install from unknown sources
+### Allow APK install from unknown sources (Step 1/2)
 
 MediX is not (yet) available on any commerical playstores. So you will be downloading the MediX software from Instrumentor site. You need to tell you Android device it is ok to install MediX from non play store locations. These instructions assume a Samsun device, if you are using a different device - please search internet on how to accomplish this.
 
@@ -27,11 +27,19 @@ MediX is not (yet) available on any commerical playstores. So you will be downlo
 
   ![LocationSuggestions](/assets/images/medix/unknown-apps-selections.png)
 
-### Allow MediX to listen to on-board microphone
+### Allow MediX to listen to on-board microphone (Step 2/2)
 
 When you connect your OR equipment's video feed to your Android device, it'll try to listen to voice commands from that source. Of course, there's no audio source and hence you need to configure your Android Device to use on-board microphone/bluetooth.
 
 - Enable Developer Mode
+
+* Go to Settings > About phone. Tap the Build number until you see You are now a developer! (you will need to tap around 7 or 8 times)
+* Navigate to Settings > Developer options to access advanced options.
+
 - Disable USB audio routing
+
+* Go to Settings and Search for "disable USB Audio routing", once you find the seting, tap to toggle.
+
+![disable_audio_routing](/assets/images/medix/medix-disable-audio-routing.png)
 
 & that's it, you can now proceed to install MediX on your Android device.
