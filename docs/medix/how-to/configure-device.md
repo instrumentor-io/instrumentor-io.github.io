@@ -31,14 +31,14 @@ MediX is not (yet) available on any commerical playstores. So you will be downlo
 
 When you connect your OR equipment's video feed to your Android device, it'll try to listen to voice commands from that source. Of course, there's no audio source and hence you need to configure your Android Device to use on-board microphone/bluetooth.
 
-- Enable Developer Mode
+#### Enable Developer Mode
 
-* Go to Settings > About phone. Tap the Build number until you see You are now a developer! (you will need to tap around 7 or 8 times)
-* Navigate to Settings > Developer options to access advanced options.
+- Go to Settings > About phone. Tap the Build number until you see You are now a developer! (you will need to tap around 7 or 8 times)
+- Navigate to Settings > Developer options to access advanced options.
 
-- Disable USB audio routing
+#### Disable USB audio routing
 
-* Go to Settings and Search for "disable USB Audio routing", once you find the seting, tap to toggle.
+- Go to Settings and Search for "disable USB Audio routing", once you find the seting, tap to toggle.
 
 ![disable_audio_routing](/assets/images/medix/medix-disable-audio-routing.png)
 
