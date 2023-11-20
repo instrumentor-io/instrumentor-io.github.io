@@ -15,4 +15,4 @@ Instrumentor makes it incrediably simple to create summary videos.
 
 **A video walkthrough of how to share a case**
 
-<iframe width="854" height="480" src="/assets/media/instrumentor/share_case.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="/assets/media/instrumentor/create_summary_video.mp4" frameborder="0" allowfullscreen></iframe>
