@@ -6,4 +6,4 @@ has_children: true
 nav_order: 2
 ---
 
-## How to Guides:
+## How to Video Guides:
