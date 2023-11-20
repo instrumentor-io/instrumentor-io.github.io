@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Upload a Case
+title: Create Summary Video
 parent: How to? Guide
 grand_parent: Instrumentor Platform
 nav_order: 9
