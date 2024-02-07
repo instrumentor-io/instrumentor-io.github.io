@@ -33,7 +33,9 @@ When you connect your OR equipment's video feed to your Android device, it'll tr
 
 #### Enable Developer Mode
 
-- Go to Settings > About phone. Tap the Build number until you see You are now a developer! (you will need to tap around 7 or 8 times)
+- Go to Settings > About phone (or About Tablet).
+- Tap on "Software Information", locate item called "Build number".
+- Tap the "Build number" until you see a message "You are now a developer!" (you will need to tap around 7 or 8 times)
 - Navigate to Settings > Developer options to access advanced options.
 
 #### Disable USB audio routing
