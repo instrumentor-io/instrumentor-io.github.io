@@ -2,7 +2,7 @@
 layout: default
 title: Connected MediX to OR Equipment
 parent: MediX Vitual Assistant
-nav_order: 2
+nav_order: 3
 has_children: false
 ---
 
