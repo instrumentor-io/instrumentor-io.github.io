@@ -10,7 +10,7 @@ Instrumentor App is available from Apple Store for download. The app provides mo
 
 **Download the App**
 
-- You can download the app from Apple Store using this link --OR-- using the QR code below
+- You can download the app from Apple Store using [this link](https://apps.apple.com/us/app/instrumentor/id6466037539) --OR-- using the QR code below
   <img src="/assets/images/app/instrumentor%20iOS%20qr%20code.png" alt="Instrumentor App QR Code" width="300">
 
 **Connecting App to your Instrumentor Cloud**
