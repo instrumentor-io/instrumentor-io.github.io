@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Instrumentor App
-has_children: true
+has_children: false
 ---
 
 # Instrumentor App
@@ -15,7 +15,11 @@ Instrumentor App is available from Apple Store for download. The app provides mo
 
 **Connecting App to your Instrumentor Cloud**
 
-The app you downloaded needs to be connected with the Instrumentor Cloud you use. Launch the app & you will see a screen asking you to enter your email address and an activation code. Lets get the activation code using instructions below ...
+The app you downloaded needs to be connected with the Instrumentor Cloud you use. Launch the app & you will see a screen asking you to enter your email address and an activation code.
+
+![App Activation](/assets/images/app/App%20Activation%200.png)
+
+Lets get the activation code using instructions below ...
 
 - Open browser on your phone (Safari/Chrome/Firefox)
 - Login to your Instrumentor web-portal. If you are using our India cloud, your URL will be [https://bharat.instrumentor.io](https://bharat.instrumentor.io), if you are using our US portal the URL will be [https://portal.instrumentor.io](https://portal.instrumentor.io)
@@ -28,6 +32,6 @@ The app you downloaded needs to be connected with the Instrumentor Cloud you use
 
 The app will verify the app activation code is valid is belongs to the email address. Once the verification is complete, you'll be presented with a login screen. You can login the app and start using the app.
 
-> :information_source: **INFO**
+> **INFO**
 >
 > Drawing annotations and recording voice commentary features are not available in the app at this, but everything else.
