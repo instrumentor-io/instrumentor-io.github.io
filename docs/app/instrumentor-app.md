@@ -17,7 +17,7 @@ Instrumentor App is available from Apple Store for download. The app provides mo
 
 The app you downloaded needs to be connected with the Instrumentor Cloud you use. Launch the app & you will see a screen asking you to enter your email address and an activation code.
 
-![App Activation](/assets/images/app/App%20Activation%200.png)
+<img src="/assets/images/app/App%20Activation%200.png" alt="App Activation" width="600">
 
 Lets get the activation code using instructions below ...
 
@@ -25,7 +25,7 @@ Lets get the activation code using instructions below ...
 - Login to your Instrumentor web-portal. If you are using our India cloud, your URL will be [https://bharat.instrumentor.io](https://bharat.instrumentor.io), if you are using our US portal the URL will be [https://portal.instrumentor.io](https://portal.instrumentor.io)
 - Click on your user profile and select "App Activation Code"
   <img src="/assets/images/app/App%20Activation%201.png" alt="App Activation 1" width="500">
-- Click on "Copy code" button to copy the activation code. Please note you need to copy entire string not just the part after :// (e.g. bharat://XXXXXX)
+- Click on "Copy code" button to copy the activation code. **Please note you need to copy entire string not just the part after :// (e.g. bharat://XXXXXX)**
   ![App Activation 2](/assets/images/app/App%20Activation%202.png)
 - Navigate back to the app & paste the copied code in the text box for "App Activation Code"
 - Enter the same email address you used to login in the "Your Email address" text box and click on "Connect"
