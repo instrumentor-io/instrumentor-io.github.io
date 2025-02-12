@@ -9,7 +9,7 @@ has_children: false
 
 ## Uploading a case
 
-You can upload any mp5 file from your local storage, it could be a laptop, desktop or an external storage attached to your laptop or desktop.
+You can upload any mp4 file from your local computer. While uploading you can mark areas that may contain PHI. Instrumentor will remove those areas before making the case available for viewing.
 
 ### Steps
 
