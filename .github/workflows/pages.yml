@@ -49,6 +49,10 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         path: ./_site
+        with:
+          name: github-pages
+          path: ./_site
+          retention-days: 1 # Ensure the artifact is retained for at least 1 day
 
   deploy:
     runs-on: ubuntu-latest
@@ -58,6 +62,15 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: ./_site
+
+      - name: Debug-Check downloaded artifact contents
+        run: ls -lR ./_site
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
