@@ -1,4 +1,4 @@
-# Workflow to deploy a Jekyll site to GitHub Pages
+# Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
 
 on:
@@ -6,12 +6,13 @@ on:
     branches: ["main"]
   workflow_dispatch:
 
-# Permissions for GitHub Pages deployment
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Allow one concurrent deployment
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -30,24 +31,16 @@ jobs:
           bundler-cache: true
           cache-version: 0
 
-      - name: Setup GitHub Pages
+      - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
 
-      - name: Build Jekyll Site
+      - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-
-      - name: Debug- Check output directory
-        run: |
-          ls -al _site
-          du -sh _site
-
-      - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: _site  # Ensuring correct path
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
 
   deploy:
     runs-on: ubuntu-latest
