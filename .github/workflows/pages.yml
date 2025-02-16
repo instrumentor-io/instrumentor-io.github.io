@@ -74,4 +74,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
+          name: GitHub Pages
           site: "./_site"
