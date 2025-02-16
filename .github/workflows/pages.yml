@@ -46,27 +46,21 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Debug - Check for symlinks before deleting
-        run: find _site -type l -exec ls -l {} \; || echo "No symlinks found"
-
       - name: Remove symlinks (Fix GitHub Pages deployment)
         run: find _site -type l -delete
 
-      - name: Remove hidden files
-        run: find _site -type f -name ".*" -delete
+      - name: make every file world-readable
+        run: chmod -R a+r _site
 
-      - name: Debug - List largest files before upload
-        run: du -sh _site/* | sort -rh | head -20
-
-      - name: Compress site before upload
-        run: tar -czf github-pages.tar.gz -C _site .
+      - name: Debug - List contents of _site
+        run: ls -lR _site
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: github-pages.tar.gz
-          retention-days: 1
+          path: ./_site
+          retention-days: 1 # Ensure the artifact is retained for at least 1 day
 
   deploy:
     runs-on: ubuntu-latest
@@ -79,11 +73,9 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: github-pages
+          path: ./_site
 
-      - name: Extract artifact
-        run: tar -xzf github-pages.tar.gz
-
-      - name: Debug - Check extracted artifact contents
+      - name: Debug - Check downloaded artifact contents
         run: ls -lR ./_site
 
       - name: Deploy to GitHub Pages
